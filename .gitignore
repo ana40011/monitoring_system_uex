@@ -1,0 +1,19 @@
+/.bash_history
+/.bash_logout
+/.bashrc
+/.cache
+/.config
+/.local
+/.profile
+/.ssh
+/.vscode-server
+/.wget-hsts
+/MS
+/__pycache__
+/collectd.py
+/db.json
+/docker monitorization.py
+/docker-stats-logs
+/dockerstats.py
+/mqtt and chirpstck monitor
+/mqtt_monitor.py-securitycopy
